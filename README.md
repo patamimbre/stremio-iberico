@@ -1,2 +1,1 @@
 # stremio-iberico
-S
